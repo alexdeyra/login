@@ -1,0 +1,40 @@
+C:\Users\307-04\Documents\Чубарков ПР-21\login\bin\Debug\login.exe.config
+C:\Users\307-04\Documents\Чубарков ПР-21\login\bin\Debug\login.exe
+C:\Users\307-04\Documents\Чубарков ПР-21\login\bin\Debug\login.pdb
+C:\Users\307-04\Documents\Чубарков ПР-21\login\obj\Debug\login.csproj.AssemblyReference.cache
+C:\Users\307-04\Documents\Чубарков ПР-21\login\obj\Debug\login.csproj.SuggestedBindingRedirects.cache
+C:\Users\307-04\Documents\Чубарков ПР-21\login\obj\Debug\login.Form1.resources
+C:\Users\307-04\Documents\Чубарков ПР-21\login\obj\Debug\login.Properties.Resources.resources
+C:\Users\307-04\Documents\Чубарков ПР-21\login\obj\Debug\login.csproj.GenerateResource.cache
+C:\Users\307-04\Documents\Чубарков ПР-21\login\obj\Debug\login.csproj.CoreCompileInputs.cache
+C:\Users\307-04\Documents\Чубарков ПР-21\login\obj\Debug\login.exe
+C:\Users\307-04\Documents\Чубарков ПР-21\login\obj\Debug\login.pdb
+C:\Users\307-04\Documents\Чубарков ПР-21\login\obj\Debug\login.main.resources
+C:\Users\307-04\Documents\Чубарков ПР-21\login\obj\Debug\login.csproj.ResolveComReference.cache
+C:\Users\307-04\Documents\Чубарков ПР-21\login\obj\Debug\login.client.resources
+C:\chubarkov\login\bin\Debug\login.exe.config
+C:\chubarkov\login\bin\Debug\login.exe
+C:\chubarkov\login\bin\Debug\login.pdb
+C:\chubarkov\login\obj\Debug\login.csproj.AssemblyReference.cache
+C:\chubarkov\login\obj\Debug\login.csproj.ResolveComReference.cache
+C:\chubarkov\login\obj\Debug\login.client.resources
+C:\chubarkov\login\obj\Debug\login.Form1.resources
+C:\chubarkov\login\obj\Debug\login.main.resources
+C:\chubarkov\login\obj\Debug\login.Properties.Resources.resources
+C:\chubarkov\login\obj\Debug\login.csproj.GenerateResource.cache
+C:\chubarkov\login\obj\Debug\login.csproj.CoreCompileInputs.cache
+C:\chubarkov\login\obj\Debug\login.exe
+C:\chubarkov\login\obj\Debug\login.pdb
+C:\Users\shugu\OneDrive\Рабочий стол\login\bin\Debug\login.exe.config
+C:\Users\shugu\OneDrive\Рабочий стол\login\bin\Debug\login.exe
+C:\Users\shugu\OneDrive\Рабочий стол\login\bin\Debug\login.pdb
+C:\Users\shugu\OneDrive\Рабочий стол\login\obj\Debug\login.csproj.AssemblyReference.cache
+C:\Users\shugu\OneDrive\Рабочий стол\login\obj\Debug\login.csproj.ResolveComReference.cache
+C:\Users\shugu\OneDrive\Рабочий стол\login\obj\Debug\login.client.resources
+C:\Users\shugu\OneDrive\Рабочий стол\login\obj\Debug\login.Form1.resources
+C:\Users\shugu\OneDrive\Рабочий стол\login\obj\Debug\login.main.resources
+C:\Users\shugu\OneDrive\Рабочий стол\login\obj\Debug\login.Properties.Resources.resources
+C:\Users\shugu\OneDrive\Рабочий стол\login\obj\Debug\login.csproj.GenerateResource.cache
+C:\Users\shugu\OneDrive\Рабочий стол\login\obj\Debug\login.csproj.CoreCompileInputs.cache
+C:\Users\shugu\OneDrive\Рабочий стол\login\obj\Debug\login.exe
+C:\Users\shugu\OneDrive\Рабочий стол\login\obj\Debug\login.pdb
